@@ -256,7 +256,7 @@ https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
 http://zemtv.duckdns.org/Belgeselim/live/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/06/EhA78k.png",135. Teber Belgesel
-http://162.212.179.32/akamaissh101/ssh101/teber_6/chunks.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_7/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",136. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -313,9 +313,9 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/teber_1/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",194. Tebertürk Yeşilçam
-http://162.212.179.32/akamaissh101/ssh101/teber_2/chunks.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_3/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",119. Şaban TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",195. Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",196. B Sinema
@@ -467,9 +467,6 @@ https://cdn1-haber61tv.yayin.com.tr/haber61tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/26/CNzspn.png",260. TE TV
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/29/EOcEKR.png",299. Next TV
-https://livestream.badinan.xyz/nexttv/FHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSF06.png,300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
