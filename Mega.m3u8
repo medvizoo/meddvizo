@@ -240,9 +240,6 @@ https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQQgD.png",107. TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQ6Fb.png",100. TRT Belgesel
-http://82.70.45.131/Uyan.php?ID=TRT%20Belgesel
-
 #EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",110. Cem TV 
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
@@ -258,11 +255,14 @@ http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/13/ELrcoC.png",130. Sar TV
 https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",136. Nature Time
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",135. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/22/E4Aqzc.png",138. Travel 4K
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/22/E4Aqzc.png",137. Travel 4K
 https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_2500k.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQ6Fb.png",140. TRT Belgesel
+http://82.70.45.131/Uyan.php?ID=TRT%20Belgesel
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/5.png",141. DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ZDR2aE95VkFYKzRzM2lGUy9od1hlRTFWNmxZbkg5YUwxMFZJUndTVUUybz0=&sid=8a18k5cj4neh&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
