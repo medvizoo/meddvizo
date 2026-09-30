@@ -120,12 +120,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/4d92e196ad0373be8e78e9e6eb220d7
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/24/EtEOXH.png",47. FIX TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/7e42bb9e048c1417fb9078eaf624d688/7e42bb9e048c1417fb9078eaf624d688.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/EelEGC.png",48. Star Movies
-https://stream41.radyotelekom.com.tr/stream/m3u8/e1723d5fa4ae557850ec082f00a82e1d/e1723d5fa4ae557850ec082f00a82e1d.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Eelkr1.png",49. Star Horror
-https://stream41.radyotelekom.com.tr/stream/m3u8/c40e203f317f6d5709c493f714ac8d69/c40e203f317f6d5709c493f714ac8d69.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png",50. Teleon 
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 
@@ -137,6 +131,9 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/23/Ealme1.png",58. Em 6 TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/63ca95c6653b359da44695b482756464/63ca95c6653b359da44695b482756464.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalWDG.png",59. Chennal 6
+https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/EelJQ2.png",60. Vizon Show 
 https://stream41.radyotelekom.com.tr/stream/m3u8/a7cdb36ef427659ab58281ff9a42b8a3/a7cdb36ef427659ab58281ff9a42b8a3.m3u8
