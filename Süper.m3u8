@@ -249,11 +249,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d75
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbF7L.png",187. Max Stars
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:F5:CE:C8&stream=1471887&extension=ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png",193. Tebertürk Tematik
-http://162.212.179.32/akamaissh101/ssh101/teber_1/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",194. Tebertürk Yeşilçam
-http://162.212.179.32/akamaissh101/ssh101/teber_3/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbRTR.png",194. Zem TV
+http://45.158.14.16/ZemTv/live/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",195. Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
