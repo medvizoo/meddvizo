@@ -219,14 +219,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",99. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
-https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/2.png",101. A2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/13/E0APBK.png",102. Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",103. TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQ7ej.png",104. TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
@@ -287,6 +287,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/02/EUQlU1.png",178. TV 7
+http://162.212.179.32/akamaissh101/ssh101/tv7tv/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/17/EnkFI8.png",183. Sümbül TV
 http://162.212.179.32/akamaissh101/ssh101/kanal30/chunks.m3u8
@@ -519,13 +522,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nn9D.png",329. NR 1 Aşk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nGNI.png",330. NR 1 Rap TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5naob.png",331. NR 1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",332. Fashion One
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",330. Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
 #EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/26/Exr212.png",333. Denge Müzik
@@ -551,9 +548,6 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_stars_1200.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlDpH.png",504. FilmBox Hits
 https://webtvstream.bhtelecom.ba/hls7/filmbox_premium_1200.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMgzi.png",505. Sony Channel
-http://45.190.28.50/SONY_HD/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMlKk.png",506. Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
