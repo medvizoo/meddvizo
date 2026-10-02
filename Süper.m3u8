@@ -177,14 +177,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",99. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
-https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/2.png",101. A2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/13/E0APBK.png",102. Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",103. TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQ7ej.png",104. TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
@@ -225,6 +225,9 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ZDR2aE95VkFYKzRzM2lGUy9od1h
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/6.png",142. TLC
 https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?token=OFZPd1pWUTB5YWxSeXMzbk0rZzBqdXFIbDI4Q0hYdHlGZVRqMUJiR2FqQT0=&sid=8a192jtdlmml&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/09/23/EalwFh.png",143. GZT TV
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",144. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
@@ -236,6 +239,10 @@ http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/02/EUQlU1.png",178. TV 7
+http://162.212.179.32/akamaissh101/ssh101/tv7tv/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/17/EnkFI8.png",183. Sümbül TV
 http://162.212.179.32/akamaissh101/ssh101/kanal30/chunks.m3u8
@@ -465,13 +472,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nn9D.png",329. NR 1 Aşk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nGNI.png",330. NR 1 Rap TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5naob.png",331. NR 1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",332. Fashion One
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",330. Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
 #EXTINF:-1 group-title="Müzik & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/26/Exr212.png",333. Denge Müzik
